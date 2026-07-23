@@ -1,0 +1,3 @@
+public enum Categoria {
+    PROGRAMACAO, BANCO_DE_DADOS, ENGENHARIA_SOFTWARE, REDES
+}
